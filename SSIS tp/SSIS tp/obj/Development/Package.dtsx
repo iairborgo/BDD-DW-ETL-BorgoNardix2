@@ -11,8 +11,8 @@
   DTS:LocaleID="11274"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="218"
-  DTS:VersionGUID="{35D856B5-68F8-463E-8116-E92EC64D19B2}">
+  DTS:VersionBuild="222"
+  DTS:VersionGUID="{FB70E370-1CD3-430C-9349-C05300D36B9F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -27,7 +27,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHxpkTBcJESWKzNOzNDfQAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADXxxXwQmePd/OWX6Vi05Km7QAeTcUg3eNg8+JlF7JZoAAAAAAOgAAAAAIAACAAAADCGtT5k4+MBP3vSA/0q6WVXM0OwA7TB39ervFzhOka7yAAAACHkIlLIXibvkjMOXz6WnIQ2V41ucqQGeb51rOIBW5ORkAAAADK54iKUZnoojWu/n/xmT01Iu+FWjhWjNPevW9BdDQgfNaDxb67qtCVumNdfsC2ttGK0BO9wy4wsTxffDB6wRst</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHxpkTBcJESWKzNOzNDfQAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADBI1EJMFG0SDVSI9kYgMWfdJqr4m1MsBNzgf+RRJz4gQAAAAAOgAAAAAIAACAAAAArl68mnddsGSc67litQvjbhxUbc8GBYOpdZ9UhOyeK/SAAAACbopyYzIKlkg4mKSt53hEiv7EIpELVCukwwpXS/QQABEAAAABv6VtKotNKIMha7pm05govfQKsbWwBPLJxjNE3qh3qeQ9lhrpvIQwAZyRnqxgMQZt99+4onFJZkLbJ8SvX4pNV</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -269,7 +269,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHxpkTBcJESWKzNOzNDfQAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA/jwPztC9t5blwrWQPkIP37X1Esn3a6pEdaRXo1tA49AAAAAAOgAAAAAIAACAAAACFEMoTtyfI/b6Dwv05OZnD0YkbwFK1MwOq0jy4u8OFoyAAAACLWFBmYc3tHv8x0UYRCX5pBjffxKfvNG6RWhxPKmu6uUAAAAAbNr6aYj5CVR5a9txM+XkI/9hMJnFmoK1sz9o9IdOq4LT+pOyKWxIl4k0k8wyFcAA6Grc8zz74un4xPbHKrqYx</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHxpkTBcJESWKzNOzNDfQAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADPnB8c08AYDkjkq0BVYh3D3qYAWawgcDGimmxji0kivgAAAAAOgAAAAAIAACAAAAA5nYSefLaI8EAjD9tNITuhDt6oMp8n1rkBdGNSQ6ZSniAAAABhe/7hEMiQe8aGY5JwZUWt5RggKy4chzyA+PSo/jam7EAAAADkaXZ+2WiqloOHybqmMAPaRm+2jhqOQdf0zuMxqeXVXEVUg7SlEh2rjq4/5jR7cZbvNI7hYZiTUQy/rq8L91SB</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -284,7 +284,7 @@
           <DTS:Password
             DTS:Name="pwd"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHxpkTBcJESWKzNOzNDfQAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADB2wirv9plKz+d3eGkfQkJhvsGBOu//JOoQlNMEvkpeQAAAAAOgAAAAAIAACAAAAC2sudt9R8t/BNUrBDSKd57nY8QeEurxbiCSnlyYnk2OSAAAAAzHTAsd7q1+cZgbh5p7Rf3Nyh4s0/r3TEXWHkl78zamEAAAABoBA8InE73kPiKR1vKPpl1O4cDSMwCSt+oHjcKEV7fiQRxuEUoidRqeCvpCOUvqPNrr5Z3RAFsO0mIr7pd22xW</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAOHxpkTBcJESWKzNOzNDfQAAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACrlhlWmjigD+MT/V8FPEGsM8BFXHFDdOIEnSeREQeUiQAAAAAOgAAAAAIAACAAAAA58IKju4OdP4e0EoYk6YDzuYYHFvipLu5US4SLdHgrDiAAAABRwKSObvkVW2a03Xn/j2Sgto9+2hHiGUHH4FXg9AbnXUAAAAD10AwozgA46TbBpfOhRmcNczeG5huaUy4N/WdpKZyC95QnNWeK+tl7/hnY11Yv+X3swLQuTO2VrPhYgQOL5O1t</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -1617,634 +1617,20 @@
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
-          DTS:refId="Package\int to dw\load dw fact"
-          DTS:CreationName="Microsoft.Pipeline"
-          DTS:Description="Tarea Flujo de datos"
-          DTS:Disabled="True"
-          DTS:DTSID="{28B35B15-C9BC-4A38-8C56-28FC51D86C52}"
-          DTS:ExecutableType="Microsoft.Pipeline"
+          DTS:refId="Package\int to dw\load dw fact sales"
+          DTS:CreationName="Microsoft.ExecuteSQLTask"
+          DTS:Description="Tarea Ejecutar SQL"
+          DTS:DTSID="{50437704-E6F5-4EF1-BA65-58417C2C7B08}"
+          DTS:ExecutableType="Microsoft.ExecuteSQLTask"
           DTS:LocaleID="-1"
-          DTS:ObjectName="load dw fact"
-          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
+          DTS:ObjectName="load dw fact sales"
+          DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2022; © 2022 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
+          DTS:ThreadHint="0">
           <DTS:Variables />
           <DTS:ObjectData>
-            <pipeline
-              version="1">
-              <components>
-                <component
-                  refId="Package\int to dw\load dw fact\dw fact"
-                  componentClassID="Microsoft.OLEDBDestination"
-                  contactInfo="Destino de OLE DB;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;4"
-                  description="Destino de OLE DB"
-                  name="dw fact"
-                  usesDispositions="true"
-                  version="4">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="Número de segundos antes de que se agote el tiempo de espera de un comando. Un valor de 0 indica un tiempo de espera infinito."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowset">[dbo].[FACT_SALES_G01]</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica la variable que contiene el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="Comando SQL para ejecutar."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica la página de códigos de columna para utilizar cuando la información de página de códigos no está disponible en el origen de datos."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Fuerza el uso del valor de la propiedad DefaultCodePage al describir datos de caracteres."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica el modo utilizado para obtener acceso a la base de datos."
-                      name="AccessMode"
-                      typeConverter="AccessMode">3</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indica si los valores proporcionados para columnas de identidad se van a copiar al destino. Si es False, los valores de las columnas de identidad se generan automáticamente en el destino. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadKeepIdentity">false</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indica si las columnas que contienen NULL tendrán NULL insertado en el destino. Si es False, las columnas que contienen NULL tendrán sus valores predeterminados insertados en el destino. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadKeepNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica opciones para usar con la carga rápida. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica cuándo se emiten confirmaciones durante la inserción de datos. El valor 0 especifica que se emitirá una confirmación al final de la inserción de datos. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadMaxInsertCommitSize">2147483647</property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\int to dw\load dw fact\dw fact.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.datawarehouse_2024_G01]"
-                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.datawarehouse_2024_G01]"
-                      description="La conexión de tiempo de ejecución OLE DB usada para obtener acceso a la base de datos."
-                      name="OleDbConnection" />
-                  </connections>
-                  <inputs>
-                    <input
-                      refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB]"
-                      errorOrTruncationOperation="Insertar"
-                      errorRowDisposition="FailComponent"
-                      hasSideEffects="true"
-                      name="Entrada de destino de OLE DB">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[billingId]"
-                          cachedDataType="i4"
-                          cachedName="billingId"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[billingId]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[billingId]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[dateKey]"
-                          cachedDataType="i4"
-                          cachedName="dateKey"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[dateKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[dateKey]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[customerKey]"
-                          cachedDataType="i4"
-                          cachedName="customerKey"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[customerKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[customerKey]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[ageRangeCustomer]"
-                          cachedCodepage="1252"
-                          cachedDataType="str"
-                          cachedLength="255"
-                          cachedName="ageRangeCustomer"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[ageRangeCustomer]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[ageRangeCustomer]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[employeeKey]"
-                          cachedDataType="i4"
-                          cachedName="employeeKey"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[employeeKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[employeeKey]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[productKey]"
-                          cachedDataType="i4"
-                          cachedName="productKey"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[productKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[productKey]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[Date]"
-                          cachedDataType="wstr"
-                          cachedLength="10"
-                          cachedName="Date"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[Date]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[Date]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[quantity]"
-                          cachedDataType="i4"
-                          cachedName="quantity"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[quantity]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[quantity]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[region]"
-                          cachedCodepage="1252"
-                          cachedDataType="str"
-                          cachedLength="255"
-                          cachedName="region"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[region]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[region]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[totalAmountSale]"
-                          cachedDataType="r8"
-                          cachedName="totalAmountSale"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[totalAmountSale]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[totalAmountSale]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[discountAmount]"
-                          cachedDataType="r8"
-                          cachedName="discountAmount"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[discountAmount]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[discountAmount]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[discountPercentage]"
-                          cachedDataType="r8"
-                          cachedName="discountPercentage"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[discountPercentage]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[discountPercentage]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[totalLitersSale]"
-                          cachedDataType="r8"
-                          cachedName="totalLitersSale"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[totalLitersSale]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[totalLitersSale]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].Columns[latasVendidas]"
-                          cachedDataType="i4"
-                          cachedName="latasVendidas"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[latasVendidas]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[latasVendidas]" />
-                      </inputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[salesKey]"
-                          dataType="i4"
-                          name="salesKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[billingId]"
-                          dataType="i4"
-                          name="billingId" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[dateKey]"
-                          dataType="i4"
-                          name="dateKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[customerKey]"
-                          dataType="i4"
-                          name="customerKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[ageRangeCustomer]"
-                          codePage="1252"
-                          dataType="str"
-                          length="255"
-                          name="ageRangeCustomer" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[employeeKey]"
-                          dataType="i4"
-                          name="employeeKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[productKey]"
-                          dataType="i4"
-                          name="productKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[Date]"
-                          dataType="wstr"
-                          length="10"
-                          name="Date" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[quantity]"
-                          dataType="i4"
-                          name="quantity" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[region]"
-                          codePage="1252"
-                          dataType="str"
-                          length="255"
-                          name="region" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[totalAmountSale]"
-                          dataType="r8"
-                          name="totalAmountSale" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[discountAmount]"
-                          dataType="r8"
-                          name="discountAmount" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[discountPercentage]"
-                          dataType="r8"
-                          name="discountPercentage" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[totalLitersSale]"
-                          dataType="r8"
-                          name="totalLitersSale" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB].ExternalColumns[latasVendidas]"
-                          dataType="i4"
-                          name="latasVendidas" />
-                      </externalMetadataColumns>
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\int to dw\load dw fact\dw fact.Outputs[Salida de error de destino de OLE DB]"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="Salida de error de destino de OLE DB"
-                      synchronousInputId="Package\int to dw\load dw fact\dw fact.Inputs[Entrada de destino de OLE DB]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Outputs[Salida de error de destino de OLE DB].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\dw fact.Outputs[Salida de error de destino de OLE DB].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\dw fact.Outputs[Salida de error de destino de OLE DB].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\dw fact.Outputs[Salida de error de destino de OLE DB].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\int to dw\load dw fact\int fact"
-                  componentClassID="Microsoft.OLEDBSource"
-                  contactInfo="Origen de OLE DB;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;7"
-                  description="Origen de OLE DB"
-                  name="int fact"
-                  usesDispositions="true"
-                  version="7">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="Número de segundos antes de que se agote el tiempo de espera de un comando. Un valor de 0 indica un tiempo de espera infinito."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowset">[dbo].[INT_FACT_SALES_G01]</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica la variable que contiene el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="Comando SQL para ejecutar."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                    <property
-                      dataType="System.String"
-                      description="Variable que contiene el comando SQL para ejecutar."
-                      name="SqlCommandVariable"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica la página de códigos de columna para utilizar cuando la información de página de códigos no está disponible en el origen de datos."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Fuerza el uso del valor de la propiedad DefaultCodePage al describir datos de caracteres."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica el modo utilizado para obtener acceso a la base de datos."
-                      name="AccessMode"
-                      typeConverter="AccessMode">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Asignaciones entre los parámetros del comando SQL y las variables."
-                      name="ParameterMapping"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\int to dw\load dw fact\int fact.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.bd_intermedia_2024_G01]"
-                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.bd_intermedia_2024_G01]"
-                      description="La conexión de tiempo de ejecución OLE DB usada para obtener acceso a la base de datos."
-                      name="OleDbConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB]"
-                      name="Salida de origen de OLE DB">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[billingId]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[billingId]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[billingId]"
-                          name="billingId"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[dateKey]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[dateKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[dateKey]"
-                          name="dateKey"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[customerKey]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[customerKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[customerKey]"
-                          name="customerKey"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[ageRangeCustomer]"
-                          codePage="1252"
-                          dataType="str"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[ageRangeCustomer]"
-                          length="255"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[ageRangeCustomer]"
-                          name="ageRangeCustomer"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[employeeKey]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[employeeKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[employeeKey]"
-                          name="employeeKey"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[productKey]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[productKey]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[productKey]"
-                          name="productKey"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[Date]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[Date]"
-                          length="10"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[Date]"
-                          name="Date"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[quantity]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[quantity]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[quantity]"
-                          name="quantity"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[region]"
-                          codePage="1252"
-                          dataType="str"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[region]"
-                          length="255"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[region]"
-                          name="region"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[totalAmountSale]"
-                          dataType="r8"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[totalAmountSale]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[totalAmountSale]"
-                          name="totalAmountSale"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[discountAmount]"
-                          dataType="r8"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[discountAmount]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[discountAmount]"
-                          name="discountAmount"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[discountPercentage]"
-                          dataType="r8"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[discountPercentage]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[discountPercentage]"
-                          name="discountPercentage"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[totalLitersSale]"
-                          dataType="r8"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[totalLitersSale]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[totalLitersSale]"
-                          name="totalLitersSale"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[latasVendidas]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[latasVendidas]"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].Columns[latasVendidas]"
-                          name="latasVendidas"
-                          truncationRowDisposition="FailComponent" />
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[billingId]"
-                          dataType="i4"
-                          name="billingId" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[dateKey]"
-                          dataType="i4"
-                          name="dateKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[customerKey]"
-                          dataType="i4"
-                          name="customerKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[ageRangeCustomer]"
-                          codePage="1252"
-                          dataType="str"
-                          length="255"
-                          name="ageRangeCustomer" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[employeeKey]"
-                          dataType="i4"
-                          name="employeeKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[productKey]"
-                          dataType="i4"
-                          name="productKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[Date]"
-                          dataType="wstr"
-                          length="10"
-                          name="Date" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[quantity]"
-                          dataType="i4"
-                          name="quantity" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[region]"
-                          codePage="1252"
-                          dataType="str"
-                          length="255"
-                          name="region" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[totalAmountSale]"
-                          dataType="r8"
-                          name="totalAmountSale" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[discountAmount]"
-                          dataType="r8"
-                          name="discountAmount" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[discountPercentage]"
-                          dataType="r8"
-                          name="discountPercentage" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[totalLitersSale]"
-                          dataType="r8"
-                          name="totalLitersSale" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de origen de OLE DB].ExternalColumns[latasVendidas]"
-                          dataType="i4"
-                          name="latasVendidas" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB]"
-                      isErrorOut="true"
-                      name="Salida de error de origen de OLE DB">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[billingId]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[billingId]"
-                          name="billingId" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[dateKey]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[dateKey]"
-                          name="dateKey" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[customerKey]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[customerKey]"
-                          name="customerKey" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[ageRangeCustomer]"
-                          codePage="1252"
-                          dataType="str"
-                          length="255"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[ageRangeCustomer]"
-                          name="ageRangeCustomer" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[employeeKey]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[employeeKey]"
-                          name="employeeKey" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[productKey]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[productKey]"
-                          name="productKey" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[Date]"
-                          dataType="wstr"
-                          length="10"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[Date]"
-                          name="Date" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[quantity]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[quantity]"
-                          name="quantity" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[region]"
-                          codePage="1252"
-                          dataType="str"
-                          length="255"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[region]"
-                          name="region" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[totalAmountSale]"
-                          dataType="r8"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[totalAmountSale]"
-                          name="totalAmountSale" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[discountAmount]"
-                          dataType="r8"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[discountAmount]"
-                          name="discountAmount" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[discountPercentage]"
-                          dataType="r8"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[discountPercentage]"
-                          name="discountPercentage" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[totalLitersSale]"
-                          dataType="r8"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[totalLitersSale]"
-                          name="totalLitersSale" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[latasVendidas]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[latasVendidas]"
-                          name="latasVendidas" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw fact\int fact.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-              </components>
-            </pipeline>
+            <SQLTask:SqlTaskData
+              SQLTask:Connection="{E0B1DE69-BF85-45FD-A562-DAAFCFBD8925}"
+              SQLTask:SqlStatementSource="&#xA;INSERT INTO FACT_SALES_G01(billingId, dateKey, ageRangeCustomer, customerKey, employeeKey, productKey,&#xA;&#x9;&#x9;&#x9;[Date], quantity, region, totalAmountSale, discountAmount, discountPercentage, totalLitersSale, latasVendidas)&#xA;SELECT&#xA;[int].billingId&#x9;&#x9;&#x9;&#x9;&#x9;AS billingId,&#xA;[int].dateKey&#x9;&#x9;&#x9;&#x9;&#x9;AS dateKey,&#xA;[int].ageRangeCustomer&#x9;&#x9;&#x9;AS ageRangeCustomer,&#xA;customer.customerKey&#x9;&#x9;&#x9;AS customerKey,&#xA;employee.employeeKey&#x9;&#x9;&#x9;AS employeeKey,&#xA;product.productKey&#x9;&#x9;&#x9;&#x9;AS productKey,&#xA;[int].[Date]&#x9;&#x9;&#x9;&#x9;&#x9;AS [Date],&#xA;[int].quantity&#x9;&#x9;&#x9;&#x9;&#x9;AS quantity,&#xA;[int].region&#x9;&#x9;&#x9;&#x9;&#x9;AS region,&#xA;[int].totalAmountSale&#x9;&#x9;&#x9;AS totalAmountSale,&#xA;[int].discountAmount&#x9;&#x9;&#x9;AS discountAmount,&#xA;[int].discountPercentage&#x9;&#x9;AS discountPercentage,&#xA;[int].totalLitersSale&#x9;&#x9;&#x9;AS totalLitersSale,&#xA;[int].latasVendidas&#x9;&#x9;&#x9;&#x9;AS latasVendidas&#xA;FROM [bd_intermedia_2024_G01].[dbo].[INT_FACT_SALES_G01] as [int]&#xA;JOIN DIM_CUSTOMER_G01 as customer&#xA;&#x9;ON [int].customerKey = customer.customerId&#xA;JOIN DIM_EMPLOYEE_G01 as employee&#xA;&#x9;ON [int].employeeKey = employee.employeeId&#xA;JOIN DIM_PRODUCT_G01 as product&#xA;&#x9;ON [int].productKey = product.productId&#xA;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
@@ -3625,344 +3011,6 @@
           </DTS:ObjectData>
         </DTS:Executable>
         <DTS:Executable
-          DTS:refId="Package\int to dw\load dw stock"
-          DTS:CreationName="Microsoft.Pipeline"
-          DTS:Description="Tarea Flujo de datos"
-          DTS:Disabled="True"
-          DTS:DTSID="{1E4E815A-437D-4A1D-AC03-668B653464E9}"
-          DTS:ExecutableType="Microsoft.Pipeline"
-          DTS:LocaleID="-1"
-          DTS:ObjectName="load dw stock"
-          DTS:TaskContact="Performs high-performance data extraction, transformation and loading;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1">
-          <DTS:Variables />
-          <DTS:ObjectData>
-            <pipeline
-              version="1">
-              <components>
-                <component
-                  refId="Package\int to dw\load dw stock\dw stock"
-                  componentClassID="Microsoft.OLEDBDestination"
-                  contactInfo="Destino de OLE DB;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;4"
-                  description="Destino de OLE DB"
-                  name="dw stock"
-                  usesDispositions="true"
-                  version="4">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="Número de segundos antes de que se agote el tiempo de espera de un comando. Un valor de 0 indica un tiempo de espera infinito."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowset">[dbo].[FACT_STOCK_G01]</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica la variable que contiene el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="Comando SQL para ejecutar."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica la página de códigos de columna para utilizar cuando la información de página de códigos no está disponible en el origen de datos."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Fuerza el uso del valor de la propiedad DefaultCodePage al describir datos de caracteres."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica el modo utilizado para obtener acceso a la base de datos."
-                      name="AccessMode"
-                      typeConverter="AccessMode">3</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indica si los valores proporcionados para columnas de identidad se van a copiar al destino. Si es False, los valores de las columnas de identidad se generan automáticamente en el destino. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadKeepIdentity">false</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Indica si las columnas que contienen NULL tendrán NULL insertado en el destino. Si es False, las columnas que contienen NULL tendrán sus valores predeterminados insertados en el destino. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadKeepNulls">false</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica opciones para usar con la carga rápida. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadOptions">TABLOCK,CHECK_CONSTRAINTS</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica cuándo se emiten confirmaciones durante la inserción de datos. El valor 0 especifica que se emitirá una confirmación al final de la inserción de datos. Solo se aplica si está activada la carga rápida."
-                      name="FastLoadMaxInsertCommitSize">2147483647</property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\int to dw\load dw stock\dw stock.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.datawarehouse_2024_G01]"
-                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.datawarehouse_2024_G01]"
-                      description="La conexión de tiempo de ejecución OLE DB usada para obtener acceso a la base de datos."
-                      name="OleDbConnection" />
-                  </connections>
-                  <inputs>
-                    <input
-                      refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB]"
-                      errorOrTruncationOperation="Insertar"
-                      errorRowDisposition="FailComponent"
-                      hasSideEffects="true"
-                      name="Entrada de destino de OLE DB">
-                      <inputColumns>
-                        <inputColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].Columns[productId]"
-                          cachedDataType="i4"
-                          cachedName="productId"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[productId]"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[productId]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].Columns[dateKey]"
-                          cachedDataType="i4"
-                          cachedName="dateKey"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[dateKey]"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[dateKey]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].Columns[date]"
-                          cachedDataType="wstr"
-                          cachedLength="10"
-                          cachedName="date"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[date]"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[date]" />
-                        <inputColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].Columns[variation]"
-                          cachedDataType="i4"
-                          cachedName="variation"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[variation]"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[variation]" />
-                      </inputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[stockKey]"
-                          dataType="i4"
-                          name="stockKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[productId]"
-                          dataType="i4"
-                          name="productId" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[dateKey]"
-                          dataType="i4"
-                          name="dateKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[date]"
-                          dataType="wstr"
-                          length="10"
-                          name="date" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB].ExternalColumns[variation]"
-                          dataType="i4"
-                          name="variation" />
-                      </externalMetadataColumns>
-                    </input>
-                  </inputs>
-                  <outputs>
-                    <output
-                      refId="Package\int to dw\load dw stock\dw stock.Outputs[Salida de error de destino de OLE DB]"
-                      exclusionGroup="1"
-                      isErrorOut="true"
-                      name="Salida de error de destino de OLE DB"
-                      synchronousInputId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB]">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Outputs[Salida de error de destino de OLE DB].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw stock\dw stock.Outputs[Salida de error de destino de OLE DB].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\dw stock.Outputs[Salida de error de destino de OLE DB].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw stock\dw stock.Outputs[Salida de error de destino de OLE DB].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-                <component
-                  refId="Package\int to dw\load dw stock\int stock"
-                  componentClassID="Microsoft.OLEDBSource"
-                  contactInfo="Origen de OLE DB;Microsoft Corporation; Microsoft SQL Server; (C) Microsoft Corporation; Todos los derechos reservados; http://www.microsoft.com/sql/support;7"
-                  description="Origen de OLE DB"
-                  name="int stock"
-                  usesDispositions="true"
-                  version="7">
-                  <properties>
-                    <property
-                      dataType="System.Int32"
-                      description="Número de segundos antes de que se agote el tiempo de espera de un comando. Un valor de 0 indica un tiempo de espera infinito."
-                      name="CommandTimeout">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowset">[dbo].[INT_FACT_STOCK_G01]</property>
-                    <property
-                      dataType="System.String"
-                      description="Especifica la variable que contiene el nombre del objeto de base de datos usado para abrir un conjunto de filas."
-                      name="OpenRowsetVariable"></property>
-                    <property
-                      dataType="System.String"
-                      description="Comando SQL para ejecutar."
-                      name="SqlCommand"
-                      UITypeEditor="Microsoft.DataTransformationServices.Controls.ModalMultilineStringEditor"></property>
-                    <property
-                      dataType="System.String"
-                      description="Variable que contiene el comando SQL para ejecutar."
-                      name="SqlCommandVariable"></property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica la página de códigos de columna para utilizar cuando la información de página de códigos no está disponible en el origen de datos."
-                      name="DefaultCodePage">1252</property>
-                    <property
-                      dataType="System.Boolean"
-                      description="Fuerza el uso del valor de la propiedad DefaultCodePage al describir datos de caracteres."
-                      name="AlwaysUseDefaultCodePage">false</property>
-                    <property
-                      dataType="System.Int32"
-                      description="Especifica el modo utilizado para obtener acceso a la base de datos."
-                      name="AccessMode"
-                      typeConverter="AccessMode">0</property>
-                    <property
-                      dataType="System.String"
-                      description="Asignaciones entre los parámetros del comando SQL y las variables."
-                      name="ParameterMapping"></property>
-                  </properties>
-                  <connections>
-                    <connection
-                      refId="Package\int to dw\load dw stock\int stock.Connections[OleDbConnection]"
-                      connectionManagerID="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.bd_intermedia_2024_G01]"
-                      connectionManagerRefId="Package.ConnectionManagers[DESKTOP-RG8G2I1\SQLEXPRESS.bd_intermedia_2024_G01]"
-                      description="La conexión de tiempo de ejecución OLE DB usada para obtener acceso a la base de datos."
-                      name="OleDbConnection" />
-                  </connections>
-                  <outputs>
-                    <output
-                      refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB]"
-                      name="Salida de origen de OLE DB">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[productId]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[productId]"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[productId]"
-                          name="productId"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[dateKey]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[dateKey]"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[dateKey]"
-                          name="dateKey"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[date]"
-                          dataType="wstr"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[date]"
-                          length="10"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[date]"
-                          name="date"
-                          truncationRowDisposition="FailComponent" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[variation]"
-                          dataType="i4"
-                          errorOrTruncationOperation="Conversión"
-                          errorRowDisposition="FailComponent"
-                          externalMetadataColumnId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[variation]"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].Columns[variation]"
-                          name="variation"
-                          truncationRowDisposition="FailComponent" />
-                      </outputColumns>
-                      <externalMetadataColumns
-                        isUsed="True">
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[productId]"
-                          dataType="i4"
-                          name="productId" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[dateKey]"
-                          dataType="i4"
-                          name="dateKey" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[date]"
-                          dataType="wstr"
-                          length="10"
-                          name="date" />
-                        <externalMetadataColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB].ExternalColumns[variation]"
-                          dataType="i4"
-                          name="variation" />
-                      </externalMetadataColumns>
-                    </output>
-                    <output
-                      refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB]"
-                      isErrorOut="true"
-                      name="Salida de error de origen de OLE DB">
-                      <outputColumns>
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[productId]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[productId]"
-                          name="productId" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[dateKey]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[dateKey]"
-                          name="dateKey" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[date]"
-                          dataType="wstr"
-                          length="10"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[date]"
-                          name="date" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[variation]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[variation]"
-                          name="variation" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[ErrorCode]"
-                          name="ErrorCode"
-                          specialFlags="1" />
-                        <outputColumn
-                          refId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
-                          dataType="i4"
-                          lineageId="Package\int to dw\load dw stock\int stock.Outputs[Salida de error de origen de OLE DB].Columns[ErrorColumn]"
-                          name="ErrorColumn"
-                          specialFlags="2" />
-                      </outputColumns>
-                      <externalMetadataColumns />
-                    </output>
-                  </outputs>
-                </component>
-              </components>
-              <paths>
-                <path
-                  refId="Package\int to dw\load dw stock.Paths[Salida de origen de OLE DB]"
-                  endId="Package\int to dw\load dw stock\dw stock.Inputs[Entrada de destino de OLE DB]"
-                  name="Salida de origen de OLE DB"
-                  startId="Package\int to dw\load dw stock\int stock.Outputs[Salida de origen de OLE DB]" />
-              </paths>
-            </pipeline>
-          </DTS:ObjectData>
-        </DTS:Executable>
-        <DTS:Executable
           DTS:refId="Package\int to dw\load dw time"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Tarea Flujo de datos"
@@ -4592,11 +3640,11 @@
         <DTS:PrecedenceConstraint
           DTS:refId="Package\int to dw.PrecedenceConstraints[Restricción 6]"
           DTS:CreationName=""
-          DTS:DTSID="{A7C547B8-AE11-4F8F-A217-8D28C959789E}"
+          DTS:DTSID="{4516F900-3AA2-4AE3-82FE-18AAA6D00E7D}"
           DTS:From="Package\int to dw\load dw prices"
           DTS:LogicalAnd="True"
           DTS:ObjectName="Restricción 6"
-          DTS:To="Package\int to dw\load dw stock" />
+          DTS:To="Package\int to dw\load dw fact sales" />
         <DTS:PrecedenceConstraint
           DTS:refId="Package\int to dw.PrecedenceConstraints[Restricción 7]"
           DTS:CreationName=""
@@ -4605,14 +3653,6 @@
           DTS:LogicalAnd="True"
           DTS:ObjectName="Restricción 7"
           DTS:To="Package\int to dw\load dw prices" />
-        <DTS:PrecedenceConstraint
-          DTS:refId="Package\int to dw.PrecedenceConstraints[Restricción 8]"
-          DTS:CreationName=""
-          DTS:DTSID="{4DA13754-E3C4-4FB5-8C84-91F73A9BC4CC}"
-          DTS:From="Package\int to dw\load dw stock"
-          DTS:LogicalAnd="True"
-          DTS:ObjectName="Restricción 8"
-          DTS:To="Package\int to dw\load dw fact" />
       </DTS:PrecedenceConstraints>
     </DTS:Executable>
     <DTS:Executable
@@ -15428,6 +14468,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
           DTS:refId="Package\stg to int\load int stock"
           DTS:CreationName="Microsoft.Pipeline"
           DTS:Description="Tarea Flujo de datos"
+          DTS:Disabled="True"
           DTS:DTSID="{8BAC1EC4-27B6-425A-807C-8D3AC7016E55}"
           DTS:ExecutableType="Microsoft.Pipeline"
           DTS:LocaleID="-1"
@@ -16110,10 +15151,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
           Id="Package\int to dw\load dw employee"
           TopLeft="5.50000000000004,311.5" />
         <NodeLayout
-          Size="137,42"
-          Id="Package\int to dw\load dw fact"
-          TopLeft="21.0000000000001,923.5" />
-        <NodeLayout
           Size="160,42"
           Id="Package\int to dw\load dw holidays"
           TopLeft="9.50000000000007,515.5" />
@@ -16129,10 +15166,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
           Size="150,42"
           Id="Package\int to dw\load dw region"
           TopLeft="14.5,107.5" />
-        <NodeLayout
-          Size="145,42"
-          Id="Package\int to dw\load dw stock"
-          TopLeft="17.0000000000001,821.5" />
         <NodeLayout
           Size="141,42"
           Id="Package\int to dw\load dw time"
@@ -16270,28 +15303,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\int to dw.PrecedenceConstraints[Restricción 6]"
-          TopLeft="89.5000000000001,761.5">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,60"
-              Start="0,0"
-              End="0,52.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
           Id="Package\int to dw.PrecedenceConstraints[Restricción 7]"
           TopLeft="89.5000000000001,659.5">
           <EdgeLayout.Curve>
@@ -16313,9 +15324,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
+        <NodeLayout
+          Size="166,42"
+          Id="Package\int to dw\load dw fact sales"
+          TopLeft="6.5000000000001,821.5" />
         <EdgeLayout
-          Id="Package\int to dw.PrecedenceConstraints[Restricción 8]"
-          TopLeft="89.5000000000001,863.5">
+          Id="Package\int to dw.PrecedenceConstraints[Restricción 6]"
+          TopLeft="89.5000000000001,761.5">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -16338,8 +15353,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="179,1021"
-          Size="179,1064"
+          PanelSize="179,918"
+          Size="179,962"
           Id="Package\int to dw"
           TopLeft="846.142857142857,109.714285714286" />
         <NodeLayout
@@ -16872,9 +15887,9 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="154.5,-19.607142857143"
+              EndConnector="154.5,-70.607142857143"
               Start="0,0"
-              End="147,-19.607142857143">
+              End="147,-70.607142857143">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
@@ -16885,13 +15900,13 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
                     Point2="77.25,0"
                     Point3="77.25,-4" />
                   <mssgle:LineSegment
-                    End="77.25,-15.607142857143" />
+                    End="77.25,-66.607142857143" />
                   <mssgle:CubicBezierSegment
-                    Point1="77.25,-15.607142857143"
-                    Point2="77.25,-19.607142857143"
-                    Point3="81.25,-19.607142857143" />
+                    Point1="77.25,-66.607142857143"
+                    Point2="77.25,-70.607142857143"
+                    Point3="81.25,-70.607142857143" />
                   <mssgle:LineSegment
-                    End="147,-19.607142857143" />
+                    End="147,-70.607142857143" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -17090,48 +16105,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\int to dw\load dw employee\int employee">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\int to dw\load dw fact">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph">
-        <NodeLayout
-          Size="111,42"
-          Id="Package\int to dw\load dw fact\int fact"
-          TopLeft="475,60" />
-        <NodeLayout
-          Size="114,42"
-          Id="Package\int to dw\load dw fact\dw fact"
-          TopLeft="484,270" />
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\int to dw\load dw fact\dw fact">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\int to dw\load dw fact\int fact">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
@@ -17396,70 +16369,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA]]></arrayElement>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\int to dw\load dw region\int region">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <TaskHost
-    design-time-name="Package\int to dw\load dw stock">
-    <LayoutInfo>
-      <GraphLayout
-        Capacity="4" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
-        <NodeLayout
-          Size="122,42"
-          Id="Package\int to dw\load dw stock\dw stock"
-          TopLeft="403,253" />
-        <NodeLayout
-          Size="119,42"
-          Id="Package\int to dw\load dw stock\int stock"
-          TopLeft="405,124" />
-        <EdgeLayout
-          Id="Package\int to dw\load dw stock.Paths[Salida de origen de OLE DB]"
-          TopLeft="464.25,166">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="0,87"
-              Start="0,0"
-              End="0,79.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,79.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-      </GraphLayout>
-    </LayoutInfo>
-  </TaskHost>
-  <PipelineComponentMetadata
-    design-time-name="Package\int to dw\load dw stock\dw stock">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\int to dw\load dw stock\int stock">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
